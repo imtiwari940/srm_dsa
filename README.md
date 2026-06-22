@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/imtiwari940/srm_dsa/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/imtiwari940/srm_dsa/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/imtiwari940/srm_dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
