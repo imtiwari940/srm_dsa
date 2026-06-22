@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imtiwari940/srm_dsa/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/imtiwari940/srm_dsa/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/imtiwari940/srm_dsa/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/imtiwari940/srm_dsa/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
