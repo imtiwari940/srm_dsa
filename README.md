@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/imtiwari940/srm_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/imtiwari940/srm_dsa/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/imtiwari940/srm_dsa/tree/master/0039-combination-sum) |
+| [0088-merge-sorted-array](https://github.com/imtiwari940/srm_dsa/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/imtiwari940/srm_dsa/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/imtiwari940/srm_dsa/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/imtiwari940/srm_dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
