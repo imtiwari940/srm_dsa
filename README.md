@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/imtiwari940/srm_dsa/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/imtiwari940/srm_dsa/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/imtiwari940/srm_dsa/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/imtiwari940/srm_dsa/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/imtiwari940/srm_dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
