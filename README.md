@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/imtiwari940/srm_dsa/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/imtiwari940/srm_dsa/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/imtiwari940/srm_dsa/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/imtiwari940/srm_dsa/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/imtiwari940/srm_dsa/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/imtiwari940/srm_dsa/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/imtiwari940/srm_dsa/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/imtiwari940/srm_dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
